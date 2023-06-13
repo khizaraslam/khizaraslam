@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node Js**
 
-- 👨‍💻 All of my projects are available at [umaraslam-cs](https://github.com/umaraslam-cs)
+- 👨‍💻 All of my projects are available at [khizaraslam](https://github.com/khizaraslam)
 
 - 💬 Ask me about **Flutter Frontend & Backend , Firebase**
 
